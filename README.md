@@ -3,11 +3,11 @@
 CHAT NO ANDROID STUDIO
 
 Equipe:
--Júlio César de Moraes Carvalho Filho
--Silas Frigo Libânio
--Tao de Oliveira Silva 
--Nathiele sevilha
--Caique Ciganha
+- Júlio César de Moraes Carvalho Filho
+- Silas Frigo Libânio
+- Tao de Oliveira Silva 
+- Nathiele sevilha
+- Caique Ciganha
 
 Mudanças no projeto:
 
